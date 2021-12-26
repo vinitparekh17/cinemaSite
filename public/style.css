@@ -2,7 +2,7 @@ body{
     background-color: #30475E;
 }
 strong{
-    font-family: 'Patua One', cursive;
+    font-family: 'Patua One', arial;
 }
 
 #title{
@@ -35,8 +35,6 @@ td{
     display: flex;
     justify-content: center;
     align-items: center;
-    /* background-color: rgba(255, 255, 255, .15);   */
-    backdrop-filter: blur(5px);
 }
 
 svg{
