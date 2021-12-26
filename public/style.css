@@ -45,6 +45,10 @@ svg{
     color: #F05454;
 }
 
+img{
+    border-radius: 10px
+}
+
 .content{
     text-align: center;
     line-height: 2;
